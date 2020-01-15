@@ -1,1 +1,1 @@
-# angular-node-application-authentication-authorization-auth-token-and-refresh-token
+# Angular and Node Application Authentication and Authorization [Auth Token and Refresh Token]
